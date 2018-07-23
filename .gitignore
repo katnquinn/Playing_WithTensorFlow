@@ -1,0 +1,7 @@
+#ignoring data folders
+cifar-10-batches-py/
+CIFAR_Tensor/
+MNIST_data/
+
+#ignoring all pickled data
+*.pckl
